@@ -8,9 +8,13 @@ categories:
 - bitcoin
 - bitcon
 - blockchain
+- mining
 - gold
+- proof-of-waste
+- 21-million
+- number-go-up
 - austrian-economics
 - history
-prices: 'paperbook: $21.33'
+prices: 'paperbook: $29.95'
 editor: John Wiley & Sons
 ---
